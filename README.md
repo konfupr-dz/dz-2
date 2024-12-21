@@ -5,7 +5,7 @@ python main.py <config_file_path>
 ```
 ### В случае репозитория
 ```bash
-python main.py config.xml
+python main.py config.puml
 ```
 # Требования
 * Python 3.11
